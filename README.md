@@ -1,5 +1,6 @@
 Assignment:
-Notejam (https://github.com/komarserjio/notejam) is a web application written in many different languages and frameworks for the sake of exercising new ways of writing code: 
+Notejam (https://github.com/komarserjio/notejam) is a web application written in many different languages and
+frameworks for the sake of exercising new ways of writing code: 
 
 Choose one of the framework applications in notejam and create a new repository with it 
 ●  Deploy that on a cloud service that best suits the workload 
